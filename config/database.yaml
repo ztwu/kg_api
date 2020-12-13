@@ -1,0 +1,11 @@
+mongodb:
+  hqwjs:
+    uri: mongodb://root:iflytek!@172.31.65.134:27017/
+    database: hqwjs_5788
+mysql:
+  tp_manage:
+    host: 172.31.202.10
+    port: 3306
+    username: bigdata
+    password: iflytek!
+    database: tp_manage
